@@ -1,0 +1,2 @@
+# mkinitcpio
+mkinitcpio
